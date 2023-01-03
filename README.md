@@ -2,8 +2,8 @@
 
 This is a graduation project for bachelor's degree in mechatronics engineering
 done by: 
-Abubakr Badrelmaarif
-Abdullah Alnoor
+Abubakr Badrelmaarif,
+Abdullah Alnoor,
 Abdullazim Abkar
 
 
